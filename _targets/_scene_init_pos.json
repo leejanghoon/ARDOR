@@ -1,0 +1,66 @@
+[
+    {
+        "scene": 1,
+        "azimuth": 270
+    },
+    {
+        "scene": 2,
+        "azimuth": 0
+    },
+    {
+        "scene": 3,
+        "azimuth": 90.0
+    },
+    {
+        "scene": 4,
+        "azimuth": 0
+    },
+    {
+        "scene": 5,
+        "azimuth": 270
+    },
+    {
+        "scene": 6,
+        "azimuth": 0.0
+    },
+    {
+        "scene": 7,
+        "azimuth": 270
+    },
+    {
+        "scene": 8,
+        "azimuth": 180
+    },
+    {
+        "scene": 9,
+        "azimuth": 270
+    },
+    {
+        "scene": 10,
+        "azimuth": 0
+    },
+    {
+        "scene": 11,
+        "azimuth": 180
+    },
+    {
+        "scene": 12,
+        "azimuth": 315
+    },
+    {
+        "scene": 13,
+        "azimuth": 135
+    },
+    {
+        "scene": 14,
+        "azimuth": 270
+    },
+    {
+        "scene": 15,
+        "azimuth": 180
+    },
+    {
+        "scene": 16,
+        "azimuth": 0
+    }
+]

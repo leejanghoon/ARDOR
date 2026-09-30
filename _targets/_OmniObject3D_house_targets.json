@@ -1,0 +1,637 @@
+[
+  {
+    "name": "H_001",
+    "file_path": "house_set/house_001/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.15,
+    "scale": 0.07,
+    "max_cr": 0.5914,
+    "circle_cd": 0.3852921117907765,
+    "circle_precision": 0.45413333333333333,
+    "circle_f1": 0.513755888541733
+  },
+  {
+    "name": "H_002",
+    "file_path": "house_set/house_002/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 4.6,
+    "scale": 0.15,
+    "max_cr": 0.6986666666666667,
+    "circle_cd": 0.41907960034220315,
+    "circle_precision": 0.5665333333333333,
+    "circle_f1": 0.6257002142832051
+  },
+  {
+    "name": "H_003",
+    "file_path": "house_set/house_003/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.0,
+    "scale": 0.125,
+    "max_cr": 0.6808666666666666,
+    "circle_cd": 0.43535554591964454,
+    "circle_precision": 0.5323333333333333,
+    "circle_f1": 0.5975074550316883
+  },
+  {
+    "name": "H_004",
+    "file_path": "house_set/house_004/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "original_height": 3.9,
+    "height": 2.9,
+    "scale": 0.09,
+    "original_scale": 0.125,
+    "max_cr": 0.8122,
+    "circle_cd": 0.39647517516899167,
+    "circle_precision": 0.6344666666666666,
+    "circle_f1": 0.7124154285714286
+  },
+  {
+    "name": "H_005",
+    "file_path": "house_set/house_005/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.4,
+    "scale": 0.08,
+    "max_cr": 0.8777333333333334,
+    "circle_cd": 0.4704978321412926,
+    "circle_precision": 0.6263333333333333,
+    "circle_f1": 0.7310229747499372
+  },
+  {
+    "name": "H_006",
+    "file_path": "house_set/house_006/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 2.1,
+    "scale": 0.05,
+    "max_cr": 0.633,
+    "circle_cd": 0.3684434077785647,
+    "circle_precision": 0.47153333333333336,
+    "circle_f1": 0.5404646306132304
+  },
+  {
+    "name": "H_007",
+    "file_path": "house_set/house_007/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 2.5,
+    "scale": 0.21,
+    "max_cr": 0.6170666666666667,
+    "circle_cd": 0.38732737826786606,
+    "circle_precision": 0.41713333333333336,
+    "circle_f1": 0.49777427104149213
+  },
+  {
+    "name": "H_008",
+    "file_path": "house_set/house_008/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.2,
+    "scale": 0.3,
+    "max_cr": 0.6210666666666667,
+    "circle_cd": 0.43583709999683795,
+    "circle_precision": 0.4265333333333333,
+    "circle_f1": 0.505738135844894
+  },
+  {
+    "name": "H_009",
+    "file_path": "house_set/house_009/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.0,
+    "scale": 0.25,
+    "max_cr": 0.5704,
+    "circle_cd": 0.4031194256802287,
+    "circle_precision": 0.4184,
+    "circle_f1": 0.48271715210355987
+  },
+  {
+    "name": "H_010",
+    "file_path": "house_set/house_010/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.0,
+    "scale": 0.25,
+    "max_cr": 0.5034666666666666,
+    "circle_cd": 0.5296199269923708,
+    "circle_precision": 0.37553333333333333,
+    "circle_f1": 0.4301900240171912
+  },
+  {
+    "name": "H_011",
+    "file_path": "house_set/house_011/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.0,
+    "scale": 0.23,
+    "max_cr": 0.6050666666666666,
+    "circle_cd": 0.4575389623809011,
+    "circle_precision": 0.4454666666666667,
+    "circle_f1": 0.5131432246054913
+  },
+  {
+    "name": "H_012",
+    "file_path": "house_set/house_012/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 2.5,
+    "scale": 0.23,
+    "max_cr": 0.6078,
+    "circle_cd": 0.4183184345940359,
+    "circle_precision": 0.4302666666666667,
+    "circle_f1": 0.5038521867574337
+  },
+  {
+    "name": "H_013",
+    "file_path": "house_set/house_013/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 2.0,
+    "scale": 0.07,
+    "max_cr": 0.7532,
+    "circle_cd": 0.5261940455376666,
+    "circle_precision": 0.6857333333333333,
+    "circle_f1": 0.7178850259451445
+  },
+  {
+    "name": "H_014",
+    "file_path": "house_set/house_014/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 2.2,
+    "scale": 0.06,
+    "max_cr": 85.02
+  },
+  {
+    "name": "H_015",
+    "file_path": "house_set/house_015/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.0,
+    "scale": 0.08,
+    "max_cr": 88.45
+  },
+  {
+    "name": "H_016",
+    "file_path": "house_set/house_016/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 2.79,
+    "scale": 0.026,
+    "max_cr": 0.7787333333333334,
+    "circle_cd": 0.37942911196713436,
+    "circle_precision": 0.5687333333333333,
+    "circle_f1": 0.6573692921696682
+  },
+  {
+    "name": "H_017",
+    "file_path": "house_set/house_017/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.0,
+    "scale": 0.25,
+    "max_cr": 0.5711333333333334,
+    "circle_cd": 0.45244335843894135,
+    "circle_precision": 0.40653333333333336,
+    "circle_f1": 0.4749773019661326
+  },
+  {
+    "name": "H_018",
+    "file_path": "house_set/house_018/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.5,
+    "scale": 0.25,
+    "max_cr": 0.5750666666666666,
+    "circle_cd": 0.5239896411224437,
+    "circle_precision": 0.43046666666666666,
+    "circle_f1": 0.4923696170081107
+  },
+  {
+    "name": "H_019",
+    "file_path": "house_set/house_019/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.0,
+    "scale": 0.25,
+    "max_cr": 0.6206666666666667,
+    "circle_cd": 0.40966159810088154,
+    "circle_precision": 0.45586666666666664,
+    "circle_f1": 0.5256525472710759
+  },
+  {
+    "name": "H_020",
+    "file_path": "house_set/house_020/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 4.0,
+    "scale": 0.3,
+    "max_cr": 0.5618666666666666,
+    "circle_cd": 0.5912235278340118,
+    "circle_precision": 0.40713333333333335,
+    "circle_f1": 0.4721458181401216
+  },
+  {
+    "name": "H_021",
+    "file_path": "house_set/house_021/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.5,
+    "scale": 0.3,
+    "max_cr": 0.6580666666666667,
+    "circle_cd": 0.49862319925993026,
+    "circle_precision": 0.4806,
+    "circle_f1": 0.5555038173302108
+  },
+  {
+    "name": "H_022",
+    "file_path": "house_set/house_022/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.0,
+    "scale": 0.25,
+    "max_cr": 0.8041333333333334,
+    "circle_cd": 0.3923124492180796,
+    "circle_precision": 0.5602,
+    "circle_f1": 0.6603598729538236
+  },
+  {
+    "name": "H_023",
+    "file_path": "house_set/house_023/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 2.8,
+    "scale": 0.25,
+    "max_cr": 0.5148666666666667,
+    "circle_cd": 0.4834481305988657,
+    "circle_precision": 0.354,
+    "circle_f1": 0.4195414716488913
+  },
+  {
+    "name": "H_024",
+    "file_path": "house_set/house_024/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.0,
+    "scale": 0.25,
+    "max_cr": 0.5648666666666666,
+    "circle_cd": 0.5054332931382364,
+    "circle_precision": 0.4295333333333333,
+    "circle_f1": 0.4879908733351211
+  },
+  {
+    "name": "H_025",
+    "file_path": "house_set/house_025/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.4,
+    "scale": 0.08,
+    "max_cr": 0.7049333333333333,
+    "circle_cd": 0.4740161736699814,
+    "circle_precision": 0.49433333333333335,
+    "circle_f1": 0.5811418830025756
+  },
+  {
+    "name": "H_026",
+    "file_path": "house_set/house_026/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.4,
+    "scale": 0.35,
+    "max_cr": 0.4513333333333333,
+    "circle_cd": 0.4904762991011974,
+    "circle_precision": 0.2854,
+    "circle_f1": 0.3496802099357524
+  },
+  {
+    "name": "H_028",
+    "file_path": "house_set/house_028/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.4,
+    "scale": 0.35,
+    "max_cr": 0.4119333333333333,
+    "circle_cd": 0.5089376015072482,
+    "circle_precision": 0.29713333333333336,
+    "circle_f1": 0.34524010279553713
+  },
+  {
+    "name": "H_029",
+    "file_path": "house_set/house_029/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.4,
+    "scale": 0.35,
+    "max_cr": 0.5624,
+    "circle_cd": 0.43919225012122354,
+    "circle_precision": 0.3776,
+    "circle_f1": 0.4518345531914894
+  },
+  {
+    "name": "H_030",
+    "file_path": "house_set/house_030/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.4,
+    "scale": 0.35,
+    "max_cr": 0.8452666666666667,
+    "circle_cd": 0.332652179422577,
+    "circle_precision": 0.5592666666666667,
+    "circle_f1": 0.6731480982216316
+  },
+  {
+    "name": "H_031",
+    "file_path": "house_set/house_031/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.0,
+    "scale": 0.07,
+    "max_cr": 0.7986666666666666,
+    "circle_cd": 0.4231163699339787,
+    "circle_precision": 0.6062666666666666,
+    "circle_f1": 0.6892924614849262
+  },
+  {
+    "name": "H_032",
+    "file_path": "house_set/house_032/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.2,
+    "scale": 0.03,
+    "max_cr": 0.8224666666666667,
+    "circle_cd": 0.28667223160314653,
+    "circle_precision": 0.6760666666666667,
+    "circle_f1": 0.7421153542723254
+  },
+  {
+    "name": "H_033",
+    "file_path": "house_set/house_033/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 2.8,
+    "scale": 0.08,
+    "max_cr": 0.7552,
+    "circle_cd": 0.4103423023400814,
+    "circle_precision": 0.6005333333333334,
+    "circle_f1": 0.669044217151849
+  },
+  {
+    "name": "H_034",
+    "file_path": "house_set/house_034/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.0,
+    "scale": 0.25,
+    "max_cr": 0.7939333333333334,
+    "circle_cd": 0.37646982779985677,
+    "circle_precision": 0.5469333333333334,
+    "circle_f1": 0.6476834949203666
+  },
+  {
+    "name": "H_035",
+    "file_path": "house_set/house_035/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 2.8,
+    "scale": 0.25,
+    "max_cr": 0.6600666666666667,
+    "circle_cd": 0.4318210351691714,
+    "circle_precision": 0.4734,
+    "circle_f1": 0.5513625926361605
+  },
+  {
+    "name": "H_036",
+    "file_path": "house_set/house_036/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 2.5,
+    "scale": 0.25,
+    "max_cr": 0.8201333333333334,
+    "circle_cd": 0.3395577120868887,
+    "circle_precision": 0.5576,
+    "circle_f1": 0.6638532081680054
+  },
+  {
+    "name": "H_037",
+    "file_path": "house_set/house_037/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 2.6,
+    "scale": 0.25,
+    "max_cr": 0.8294,
+    "circle_cd": 0.42842681675335315,
+    "circle_precision": 0.5826666666666667,
+    "circle_f1": 0.6844772201501346
+  },
+  {
+    "name": "H_038",
+    "file_path": "house_set/house_038/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 2.6,
+    "scale": 0.25,
+    "max_cr": 0.7808,
+    "circle_cd": 0.3407920192024314,
+    "circle_precision": 0.5378666666666667,
+    "circle_f1": 0.6369559555106169
+  },
+  {
+    "name": "H_039",
+    "file_path": "house_set/house_039/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 2.3,
+    "scale": 0.22,
+    "max_cr": 99.35
+  },
+  {
+    "name": "H_040",
+    "file_path": "house_set/house_040/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 2.4,
+    "scale": 0.13,
+    "max_cr": 0.7868907337975362,
+    "circle_cd": 0.33301041601763404,
+    "circle_precision": 0.6057333333333333,
+    "circle_f1": 0.6845292400185158
+  },
+  {
+    "name": "H_041",
+    "file_path": "house_set/house_041/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.6,
+    "scale": 0.16,
+    "max_cr": 0.7948,
+    "circle_cd": 0.30526311815628016,
+    "circle_precision": 0.5554666666666667,
+    "circle_f1": 0.6539225436950725
+  },
+  {
+    "name": "H_042",
+    "file_path": "house_set/house_042/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 2.4,
+    "scale": 0.25,
+    "max_cr": 0.6257333333333334,
+    "circle_cd": 0.5214676081202891,
+    "circle_precision": 0.429,
+    "circle_f1": 0.5090188989317995
+  },
+  {
+    "name": "H_043",
+    "file_path": "house_set/house_043/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 3.6,
+    "scale": 0.25,
+    "max_cr": 99.14
+  },
+  {
+    "name": "H_044",
+    "file_path": "house_set/house_044/Scan/simplified_mesh.obj",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 2.5,
+    "scale": 0.25,
+    "max_cr": 0.9118666666666667,
+    "circle_cd": 0.35945844728232984,
+    "circle_precision": 0.6808666666666666,
+    "circle_f1": 0.7796152749291922
+  }
+]

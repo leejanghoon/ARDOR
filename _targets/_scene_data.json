@@ -1,0 +1,4498 @@
+{
+    "scene01": [
+        {
+            "name": "truck",
+            "file_path": "truck.glb",
+            "pos": [
+                11.5,
+                0,
+                1.5
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.6
+        },
+        {
+            "name": "fence",
+            "file_path": "old_concrete_fence_-_lowpoly.glb",
+            "pos": [
+                -3.5,
+                10,
+                2
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":2
+        },
+        {
+            "name": "fence2",
+            "file_path": "old_concrete_fence_-_lowpoly.glb",
+            "pos": [
+                7,
+                10.1,
+                2
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":2
+        },
+        {
+            "name": "fence3",
+            "file_path": "old_concrete_fence_-_lowpoly.glb",
+            "pos": [
+                -9,
+                2.8,
+                2
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":2
+        },
+        {
+            "name": "fence4",
+            "file_path": "old_concrete_fence_-_lowpoly.glb",
+            "pos": [
+                -9,
+                -2,
+                2
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":2
+        },
+        {
+            "name": "fence5",
+            "file_path": "old_concrete_fence_-_lowpoly.glb",
+            "pos": [
+                14.8,
+                2.9,
+                2
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":2
+        },
+        {
+            "name": "fence6",
+            "file_path": "old_concrete_fence_-_lowpoly.glb",
+            "pos": [
+                -3.5,
+                -8,
+                2
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":2
+        }
+        
+    ],
+    "scene02": [
+        {
+            "name": "truck",
+            "file_path": "trailer.glb",
+            "pos": [
+                4,
+                -10,
+                4.3
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.011
+        },
+        {
+            "name": "truck2",
+            "file_path": "trailer.glb",
+            "pos": [
+                11,
+                -3.5,
+                4.3
+            ],
+            "euler": [
+                90,
+                0,
+                -100
+            ],
+            "scale": 0.011
+        },
+        {
+            "name": "inner_bush",
+            "file_path": "bush_square.glb",
+            "pos": [
+                9.1,
+                0,
+                -0.7
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.4
+        },
+        {
+            "name": "inner_bush2",
+            "file_path": "bush_square.glb",
+            "pos": [
+                9.1,
+                -2,
+                -0.7
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.4
+        },
+        {
+            "name": "inner_bush3",
+            "file_path": "bush_square.glb",
+            "pos": [
+                9.1,
+                -4,
+                -0.7
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.4
+        },
+        {
+            "name": "inner_bush4",
+            "file_path": "bush_square.glb",
+            "pos": [
+                8.1,
+                -5,
+                -0.7
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 0.4
+        },
+        {
+            "name": "inner_bush5",
+            "file_path": "bush_square.glb",
+            "pos": [
+                5.1,
+                -8,
+                -0.7
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.4
+        },
+        {
+            "name": "inner_bush6",
+            "file_path": "bush_square.glb",
+            "pos": [
+                7.1,
+                -8,
+                -0.7
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.4
+        },
+
+        {
+            "name": "bush",
+            "file_path": "bush_square.glb",
+            "pos": [
+                -8.5,
+                13,
+                -0.5
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "height": 0,
+            "scale": 0.5
+        },
+        {
+            "name": "bush2",
+            "file_path": "bush_square.glb",
+            "pos": [
+                -5.5,
+                13,
+                -0.5
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "height": 0,
+            "scale": 0.5
+        },
+        {
+            "name": "bush3",
+            "file_path": "bush_square.glb",
+            "pos": [
+                -2.5,
+                13,
+                -0.5
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "height": 0,
+            "scale": 0.5
+        },
+        {
+            "name": "bush4",
+            "file_path": "bush_square.glb",
+            "pos": [
+                1.0,
+                13,
+                -0.5
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "height": 0,
+            "scale": 0.5
+        },
+        {
+            "name": "bush5",
+            "file_path": "bush_square.glb",
+            "pos": [
+                2.5,
+                13,
+                -0.5
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "height": 0,
+            "scale": 0.5
+        },
+        {
+            "name": "rock",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [
+                5.5,
+                11,
+                1.3
+            ],
+            "euler": [
+                90,
+                0,
+                70
+            ],
+            "height": 0,
+            "scale": 0.7
+        },
+        {
+            "name": "broken_wall",
+            "file_path": "damaged_wall.glb",
+            "pos": [
+                -10.9,
+                10,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "height": 0,
+            "scale": 0.05
+        },
+        {
+            "name": "broken_wall2",
+            "file_path": "damaged_wall.glb",
+            "pos": [
+                -10.9,
+                5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "height": 0,
+            "scale": 0.05
+        },
+        {
+            "name": "broken_wall3",
+            "file_path": "damaged_wall.glb",
+            "pos": [
+                -10.9,
+                0,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "height": 0,
+            "scale": 0.05
+        },
+        {
+            "name": "broken_wall4",
+            "file_path": "damaged_wall.glb",
+            "pos": [
+                -10.9,
+                -3,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "height": 0,
+            "scale": 0.05
+        },
+        {
+            "name": "broken_wall5",
+            "file_path": "damaged_wall.glb",
+            "pos": [
+                -5.9,
+                -7,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "height": 0,
+            "scale": 0.05
+        },
+        {
+            "name": "broken_wall6",
+            "file_path": "damaged_wall.glb",
+            "pos": [
+                -0.9,
+                -7,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "height": 0,
+            "scale": 0.05
+        }
+        
+    ],
+    "scene03": [
+        {
+            "name": "wall1-outer",
+            "file_path": "damaged_wall.glb",
+            "pos": [
+                13,
+                17,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.07
+        },
+        {
+            "name": "wall2-outer",
+            "file_path": "damaged_wall.glb",
+            "pos": [
+                5,
+                17,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.07
+        },
+        {
+            "name": "wall3-outer",
+            "file_path": "damaged_wall.glb",
+            "pos": [
+                -13,
+                17,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.07
+        },
+        {
+            "name": "wall3-outer-side1",
+            "file_path": "damaged_wall.glb",
+            "pos": [
+                -20,
+                11,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 0.07
+        },
+        {
+            "name": "wall3-outer-side2",
+            "file_path": "damaged_wall.glb",
+            "pos": [
+                -20,
+                0,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 0.07
+        },
+        {
+            "name": "wall3-outer-side3",
+            "file_path": "damaged_wall.glb",
+            "pos": [
+                -20,
+                -9.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 0.07
+        },
+        {
+            "name": "wall3-outer-side1-reverse",
+            "file_path": "damaged_wall.glb",
+            "pos": [
+                20,
+                11,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 0.07
+        },
+        {
+            "name": "wall3-outer-side2-reverse",
+            "file_path": "damaged_wall.glb",
+            "pos": [
+                20,
+                0,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 0.07
+        },
+        {
+            "name": "wall3-outer-side3-reverse",
+            "file_path": "damaged_wall.glb",
+            "pos": [
+                20,
+                -9.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 0.07
+        },
+        {
+            "name": "wall1-outer-reverse",
+            "file_path": "damaged_wall.glb",
+            "pos": [
+                13,
+                -17,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.07
+        },
+        {
+            "name": "wall2-outer-reverse",
+            "file_path": "damaged_wall.glb",
+            "pos": [
+                0,
+                -17,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.07
+        },
+        {
+            "name": "wall3-outer-reverse",
+            "file_path": "damaged_wall.glb",
+            "pos": [
+                -13,
+                -17,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.07
+        },
+        {
+            "name": "wall1",
+            "file_path": "stone_wall_low.glb",
+            "pos": [
+                10,
+                7,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 0.9
+        },
+        {
+            "name": "wall1-reverse",
+            "file_path": "stone_wall_low.glb",
+            "pos": [
+                10,
+                -7,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                110
+            ],
+            "scale": 0.9
+        },
+        {
+            "name": "wall2",
+            "file_path": "stone_wall_low.glb",
+            "pos": [
+                -2,
+                7,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 0.9
+        },
+        {
+            "name": "wall3",
+            "file_path": "stone_wall_low.glb",
+            "pos": [
+                -12,
+                -4,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.9
+        },
+        {
+            "name": "wall4",
+            "file_path": "stone_wall_low.glb",
+            "pos": [
+                10.7,
+                -4,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.9
+        },
+        {
+            "name": "rock",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [
+                -9,
+                -7,
+                1.3
+            ],
+            "euler": [
+                90,
+                0,
+                70
+            ],
+            "height": 0,
+            "scale": 0.4
+        }
+    ],
+    "scene04": [
+        {
+            "name": "bench",
+            "file_path": "mc_1.glb",
+            "pos": [
+                9.5,
+                5,
+                0.5
+            ],
+            "euler": [
+                90,
+                0,
+                -90
+            ],
+            "scale": 0.5
+        },
+        {
+            "name": "swing",
+            "file_path": "swing_set.glb",
+            "pos": [
+                5,
+                -12,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                -90
+            ],
+            "scale": 0.003
+        },
+        {
+            "name": "slide",
+            "file_path": "old_playground_slide.glb",
+            "pos": [
+                -8,
+                -10,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                -90
+            ],
+            "scale": 0.7
+        },
+        
+        {
+            "name": "fence1",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                12,
+                6,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                -90
+            ],
+            "scale": 1
+        },
+        {
+            "name": "fence2",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                12,
+                -11,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                -90
+            ],
+            "scale": 1
+        },
+        {
+            "name": "fence3",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                -13,
+                6,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                -90
+            ],
+            "scale": 1
+        },
+        {
+            "name": "fence4",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                -13,
+                -7,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                -90
+            ],
+            "scale": 1
+        },
+        {
+            "name": "fence5",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                -13,
+                -11,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                -90
+            ],
+            "scale": 1
+        },
+        {
+            "name": "fence6",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                -7,
+                12,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 1
+        },
+        {
+            "name": "fence7",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                5,
+                12,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 1
+        },
+        {
+            "name": "fence8",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                -7,
+                -18,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 1
+        },
+        {
+            "name": "fence9",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                5,
+                -18,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 1
+        }
+    ],
+     "scene05": [
+        {
+            "name": "wall1",
+            "file_path": "concrete_scan.glb",
+            "pos": [
+                -20,
+                1,
+                -1.9
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 1.3
+        },
+        {
+            "name": "wall2",
+            "file_path": "concrete_scan.glb",
+            "pos": [
+                14,
+                0,
+                -1.9
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 1.3
+        },
+        {
+            "name": "wall3",
+            "file_path": "concrete_scan.glb",
+            "pos": [
+                4,
+                -16,
+                -1.9
+            ],
+            "euler": [
+                90,
+                0,
+                180
+            ],
+            "scale": 1.3
+        },
+        {
+            "name": "wall4",
+            "file_path": "concrete_scan.glb",
+            "pos": [
+                -2.5,
+                14,
+                -1.9
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 1.3
+        },
+        {
+            "name": "bulldozer",
+            "file_path": "bulldozer.glb",
+            "pos": [
+                -12,
+                6.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.014
+        },
+        {
+            "name": "pile_clay",
+            "file_path": "a_pile_of_clay.glb",
+            "pos": [
+                -13.5,
+                -4,
+                1
+            ],
+            "euler": [
+                90,
+                0,
+                30
+            ],
+            "scale": 1.8
+        },
+        {
+            "name": "pile_stone",
+            "file_path": "dirty_stones_pile.glb",
+            "pos": [
+                -10.5,
+                -6,
+                1
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.7
+        }
+    ],
+    "scene06": [
+        {
+            "name": "penguin1",
+            "file_path": "low_poly_penguin.glb",
+            "pos": [
+                0,
+                -5,
+                0.15
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 0.4
+        },
+        {
+            "name": "penguin2",
+            "file_path": "low_poly_penguin.glb",
+            "pos": [
+                5,
+                -6,
+                0.15
+            ],
+            "euler": [
+                90,
+                0,
+                180
+            ],
+            "scale": 0.4
+        },
+        {
+            "name": "penguin3",
+            "file_path": "low_poly_penguin.glb",
+            "pos": [
+                7,
+                8,
+                0.15
+            ],
+            "euler": [
+                90,
+                0,
+                70
+            ],
+            "scale": 0.4
+        },
+        {
+            "name": "penguin4",
+            "file_path": "low_poly_penguin.glb",
+            "pos": [
+                6,
+                7,
+                0.15
+            ],
+            "euler": [
+                90,
+                0,
+                45
+            ],
+            "scale": 0.4
+        },
+        {
+            "name": "penguin5",
+            "file_path": "low_poly_penguin.glb",
+            "pos": [
+                -7,
+                2,
+                0.15
+            ],
+            "euler": [
+                90,
+                0,
+                70
+            ],
+            "scale": 0.4
+        },
+        {
+            "name": "penguin6",
+            "file_path": "low_poly_penguin.glb",
+            "pos": [
+                -8,
+                7,
+                0.15
+            ],
+            "euler": [
+                90,
+                0,
+                170
+            ],
+            "scale": 0.4
+        },
+        {
+            "name": "snowman1",
+            "file_path": "snowman_character.glb",
+            "pos": [
+                8,
+                -4,
+                0.15
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 1
+        },
+        {
+            "name": "snowman2",
+            "file_path": "snowman_character.glb",
+            "pos": [
+                8,
+                -1,
+                0.15
+            ],
+            "euler": [
+                90,
+                0,
+                60
+            ],
+            "scale": 1
+        },
+        {
+            "name": "sled1",
+            "file_path": "low_poly_winter_sled.glb",
+            "pos": [
+                0,
+                8,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                130
+            ],
+            "scale":3
+        },
+        {
+            "name": "sled2",
+            "file_path": "low_poly_winter_sled.glb",
+            "pos": [
+                -8,
+                -4,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":3
+        },
+        {
+            "name": "fence1",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                8,
+                10,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1
+        },
+        {
+            "name": "fence2",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                -4,
+                10,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1
+        },
+        {
+            "name": "fence3",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                -4,
+                -9,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1
+        },
+        {
+            "name": "fence4",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                3,
+                -9,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1
+        },
+        {
+            "name": "fence5",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                -10,
+                3,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1
+        },
+        {
+            "name": "fence6",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                -10,
+                -3,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1
+        },
+        {
+            "name": "fence7",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                15,
+                3,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1
+        },
+        {
+            "name": "trailer",
+            "file_path": "old_trailer_covered_in_snow_raw_model.glb",
+            "pos": [
+                6,
+                -6,
+                10.5
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":0.8
+        }
+        
+        
+    ],
+    "scene07": [
+        {
+            "name": "construction",
+            "file_path": "construction.glb",
+            "pos": [
+                0,
+                12,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                15
+            ],
+            "height": 0,
+            "scale": 1
+        },
+        {
+            "name": "truck1",
+            "file_path": "lowpoly.glb",
+            "pos": [
+                10,
+                13,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                60
+            ],
+            "height": 0,
+            "scale": 1
+        },
+        {
+            "name": "truck2",
+            "file_path": "lowpoly.glb",
+            "pos": [
+                7,
+                7,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                45
+            ],
+            "height": 0,
+            "scale": 1
+        },
+        {
+            "name": "pile_of_junk_boards_raw_model",
+            "file_path": "pile_of_junk_boards_raw_model.glb",
+            "pos": [
+                0,
+                13,
+                2
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "height": 0,
+            "scale": 1
+        },
+        {
+            "name": "fence_barricade_02-1",
+            "file_path": "fence_barricade_02.glb",
+            "pos": [
+                -10.9,
+                6,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                45
+            ],
+            "height": 0,
+            "scale": 3
+        },
+        {
+            "name": "fence_barricade_02-2",
+            "file_path": "fence_barricade_02.glb",
+            "pos": [
+                -10.9,
+                3,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "height": 0,
+            "scale": 3
+        },
+        {
+            "name": "fence_barricade_02-3",
+            "file_path": "fence_barricade_02.glb",
+            "pos": [
+                -10.9,
+                -5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                135
+            ],
+            "height": 0,
+            "scale": 3
+        },
+        {
+            "name": "fence_barricade_02-4",
+            "file_path": "fence_barricade_02.glb",
+            "pos": [
+                0,
+                -6,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "height": 0,
+            "scale": 3
+        },
+        {
+            "name": "fence1",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                8,
+                -11,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1
+        },
+        {
+            "name": "fence2",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                -3,
+                -11,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1
+        },
+        {
+            "name": "fence3",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                15,
+                -2,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1
+        },
+        {
+            "name": "fence4",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                15,
+                10,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1
+        },
+        {
+            "name": "fence5",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                15,
+                -5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1
+        },
+        {
+            "name": "fence6",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                -15,
+                -2,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1
+        },
+        {
+            "name": "fence7",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                -15,
+                10,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1
+        },
+        {
+            "name": "fence8",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                8,
+                17.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1
+        },
+        {
+            "name": "fence9",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                -3,
+                17.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1
+        },
+        {
+            "name": "fence10",
+            "file_path": "concrete_wall_protection.glb",
+            "pos": [
+                -9,
+                17.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1
+        }
+    ],
+    "scene08": [
+        {
+            "name": "fence1",
+            "file_path": "concrete_modern_fence.glb",
+            "pos": [
+                -11,
+                13,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 2.8
+        },
+        {
+            "name": "fence2",
+            "file_path": "concrete_modern_fence.glb",
+            "pos": [
+                -5.5,
+                13,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 2.8
+        },
+        {
+            "name": "fence3",
+            "file_path": "concrete_modern_fence.glb",
+            "pos": [
+                0,
+                13,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 2.8
+        },
+        {
+            "name": "fence4",
+            "file_path": "concrete_modern_fence.glb",
+            "pos": [
+                5.5,
+                13,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 2.8
+        },
+        {
+            "name": "fence5",
+            "file_path": "concrete_modern_fence.glb",
+            "pos": [
+                11,
+                13,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 2.8
+        },
+        {
+            "name": "fence6",
+            "file_path": "concrete_modern_fence.glb",
+            "pos": [
+                14,
+                10.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 2.8
+        },
+        {
+            "name": "fence7",
+            "file_path": "concrete_modern_fence.glb",
+            "pos": [
+                14,
+                5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 2.8
+        },
+        {
+            "name": "fence8",
+            "file_path": "concrete_modern_fence.glb",
+            "pos": [
+                14,
+                -0.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 2.8
+        },
+        {
+            "name": "fence9",
+            "file_path": "concrete_modern_fence.glb",
+            "pos": [
+                14,
+                -6,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 2.8
+        },
+        {
+            "name": "fence10",
+            "file_path": "concrete_modern_fence.glb",
+            "pos": [
+                -13.5,
+                10.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 2.8
+        },
+        {
+            "name": "fence11",
+            "file_path": "concrete_modern_fence.glb",
+            "pos": [
+                -13.5,
+                5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 2.8
+        },
+        {
+            "name": "fence12",
+            "file_path": "concrete_modern_fence.glb",
+            "pos": [
+                -15.5,
+                0.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                45
+            ],
+            "scale": 2.8
+        },
+        {
+            "name": "fence13",
+            "file_path": "concrete_modern_fence.glb",
+            "pos": [
+                -15.5,
+                -7.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                -45
+            ],
+            "scale": 2.8
+        },
+        {
+            "name": "fence14",
+            "file_path": "concrete_modern_fence.glb",
+            "pos": [
+                -11,
+                -9.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 2.8
+        },
+        {
+            "name": "fence15",
+            "file_path": "concrete_modern_fence.glb",
+            "pos": [
+                -5.5,
+                -9.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 2.8
+        },
+        {
+            "name": "fence16",
+            "file_path": "concrete_modern_fence.glb",
+            "pos": [
+                0,
+                -9.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 2.8
+        },
+        {
+            "name": "fence17",
+            "file_path": "concrete_modern_fence.glb",
+            "pos": [
+                5.5,
+                -9.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 2.8
+        },
+        {
+            "name": "fence18",
+            "file_path": "concrete_modern_fence.glb",
+            "pos": [
+                11,
+                -9.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 2.8
+        },
+        {
+            "name": "swmimmingpool",
+            "file_path": "swimming_pool.glb",
+            "pos": [
+                10.5,
+                -5,
+                1.5
+            ],
+            "euler": [
+                90,
+                0,
+                -90
+            ],
+            "scale": 0.7
+        },
+        {
+            "name": "chair1",
+            "file_path": "lounge_chair.glb",
+            "pos": [
+                9,
+                6,
+                1
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.2
+        },
+        {
+            "name": "chair2",
+            "file_path": "lounge_chair.glb",
+            "pos": [
+                9,
+                8,
+                1
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.2
+        },
+        {
+            "name": "fountain",
+            "file_path": "town_fountain.glb",
+            "pos": [
+                -8,
+                -6.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 0.04
+        },
+        {
+            "name": "car",
+            "file_path": "generic_sedan_car.glb",
+            "pos": [
+                -9,
+                7.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 1.3
+        }
+    
+        
+    ],
+    "scene09": [
+        {
+            "name": "barn",
+            "file_path": "modular_old_wooden_barn_and_fence.glb",
+            "pos": [
+                10,
+                9,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                180
+            ],
+            "scale": 2.5
+        },
+        {
+            "name": "wall1",
+            "file_path": "wooden_deck_a.glb",
+            "pos": [
+                -10,
+                13,
+                1.5
+            ],
+            "euler": [
+                0,
+                0,
+                0
+            ],
+            "scale": 10
+        },
+        {
+            "name": "wall2",
+            "file_path": "wooden_deck_a.glb",
+            "pos": [
+                -5,
+                13,
+                1.5
+            ],
+            "euler": [
+                0,
+                0,
+                0
+            ],
+            "scale": 10
+        },
+        {
+            "name": "wall3",
+            "file_path": "wooden_deck_a.glb",
+            "pos": [
+                0,
+                13,
+                1.5
+            ],
+            "euler": [
+                0,
+                0,
+                0
+            ],
+            "scale": 10
+        },
+        {
+            "name": "wall4",
+            "file_path": "wooden_deck_a.glb",
+            "pos": [
+                5,
+                13,
+                1.5
+            ],
+            "euler": [
+                0,
+                0,
+                0
+            ],
+            "scale": 10
+        },
+        {
+            "name": "wall5",
+            "file_path": "wooden_deck_a.glb",
+            "pos": [
+                10,
+                13,
+                1.5
+            ],
+            "euler": [
+                0,
+                0,
+                0
+            ],
+            "scale": 10
+        },
+        {
+            "name": "wall6",
+            "file_path": "wooden_deck_a.glb",
+            "pos": [
+                12,
+                13,
+                1.5
+            ],
+            "euler": [
+                0,
+                0,
+                0
+            ],
+            "scale": 10
+        },
+        {
+            "name": "wall7",
+            "file_path": "wooden_deck_a.glb",
+            "pos": [
+                14.5,
+                10.5,
+                1.5
+            ],
+            "euler": [
+                0,
+                0,
+                90
+            ],
+            "scale": 10
+        },
+        {
+            "name": "wall8",
+            "file_path": "wooden_deck_a.glb",
+            "pos": [
+                14.5,
+                5.5,
+                1.5
+            ],
+            "euler": [
+                0,
+                0,
+                90
+            ],
+            "scale": 10
+        },
+        {
+            "name": "wall9",
+            "file_path": "wooden_deck_a.glb",
+            "pos": [
+                14.5,
+                0.5,
+                1.5
+            ],
+            "euler": [
+                0,
+                0,
+                90
+            ],
+            "scale": 10
+        },
+        {
+            "name": "wall10",
+            "file_path": "wooden_deck_a.glb",
+            "pos": [
+                14.5,
+                -4.5,
+                1.5
+            ],
+            "euler": [
+                0,
+                0,
+                90
+            ],
+            "scale": 10
+        },
+        {
+            "name": "wall11",
+            "file_path": "wooden_deck_a.glb",
+            "pos": [
+                14.5,
+                -9.5,
+                1.5
+            ],
+            "euler": [
+                0,
+                0,
+                90
+            ],
+            "scale": 10
+        },
+        {
+            "name": "wall12",
+            "file_path": "wooden_deck_a.glb",
+            "pos": [
+                -12.5,
+                10.5,
+                1.5
+            ],
+            "euler": [
+                0,
+                0,
+                90
+            ],
+            "scale": 10
+        },
+        {
+            "name": "wall13",
+            "file_path": "wooden_deck_a.glb",
+            "pos": [
+                -12.5,
+                5.5,
+                1.5
+            ],
+            "euler": [
+                0,
+                0,
+                90
+            ],
+            "scale": 10
+        },
+        {
+            "name": "wall14",
+            "file_path": "wooden_deck_a.glb",
+            "pos": [
+                -12.5,
+                0.5,
+                1.5
+            ],
+            "euler": [
+                0,
+                0,
+                90
+            ],
+            "scale": 10
+        },
+        {
+            "name": "wall15",
+            "file_path": "wooden_deck_a.glb",
+            "pos": [
+                -12.5,
+                -4.5,
+                1.5
+            ],
+            "euler": [
+                0,
+                0,
+                90
+            ],
+            "scale": 10
+        },
+        {
+            "name": "wall16",
+            "file_path": "wooden_deck_a.glb",
+            "pos": [
+                -12.5,
+                -9.5,
+                1.5
+            ],
+            "euler": [
+                0,
+                0,
+                90
+            ],
+            "scale": 10
+        },
+        {
+            "name": "log_pile",
+            "file_path": "abandoned_wooden_log_pallet.glb",
+            "pos": [
+                -8,
+                -10,
+                1
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 4.5
+        },
+        {
+            "name": "watertank",
+            "file_path": "water_tank.glb",
+            "pos": [
+                -10,
+                6,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale": 0.03
+        },
+        {
+            "name": "container1",
+            "file_path": "ibc_container.glb",
+            "pos": [
+                12,
+                -11,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 3
+        },
+        {
+            "name": "container2",
+            "file_path": "ibc_container.glb",
+            "pos": [
+                8,
+                -11,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 3
+        },
+        {
+            "name": "container3",
+            "file_path": "ibc_container.glb",
+            "pos": [
+                4,
+                -11,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale": 3
+        },
+        {
+            "name": "tractor",
+            "file_path": "d8_tractor.glb",
+            "pos": [
+                -6.0,
+                10.5,
+                1
+            ],
+            "euler": [
+                90,
+                0,
+                30
+            ],
+            "scale": 0.5
+        },
+        {
+            "name": "generator",
+            "file_path": "generator_lp.glb",
+            "pos": [
+                7,
+                -5,
+                1
+            ],
+            "euler": [
+                90,
+                0,
+                45
+            ],
+            "scale": 0.03
+        }
+        
+    ],
+    "scene10": [
+        {
+            "name": "bushwall1","file_path": "bush_square.glb",
+            "pos": [12.9, 1.8, -0.7], "euler": [90, 0, 171.8], "scale": 0.6
+        },
+
+        {
+            "name": "bushwall2","file_path": "bush_square.glb",
+            "pos": [11.8, 5.4, -0.7], "euler": [90, 0, 155.5], "scale": 0.6
+        },
+        {
+            "name": "bushwall3","file_path": "bush_square.glb",
+            "pos": [11.0, 7.1, -0.7], "euler": [90, 0, 147.3], "scale": 0.6
+        },
+        {
+            "name": "bushwall4","file_path": "bush_square.glb",
+            "pos": [10.0, 8.7, -0.7], "euler": [90, 0, 139.1], "scale": 0.6
+        },
+        {
+            "name": "bushwall5","file_path": "bush_square.glb",
+            "pos": [8.8, 10.0, -0.7], "euler": [90, 0, 130.9], "scale": 0.6
+        },
+        {
+            "name": "bushwall6","file_path": "bush_square.glb",
+            "pos": [7.4, 11.2, -0.7], "euler": [90, 0, 122.7], "scale": 0.6
+        },
+        {
+            "name": "bushwall7","file_path": "bush_square.glb",
+            "pos": [5.9, 12.2, -0.7], "euler": [90, 0, 114.5], "scale": 0.6
+        },
+        {
+            "name": "bushwall8","file_path": "bush_square.glb",
+            "pos": [4.0, 12.9, -0.7], "euler": [90, 0, 106.4], "scale": 0.6
+        },
+        {
+            "name": "bushwall9","file_path": "bush_square.glb",
+            "pos": [2.1, 13.1, -0.7], "euler": [90, 0, 98.2], "scale": 0.6
+        },
+        {
+            "name": "bushwall10","file_path": "bush_square.glb",
+            "pos": [0.0, 13.0, -0.7], "euler": [90, 0, 90.0], "scale": 0.6
+        },
+        {
+            "name": "bushwall11","file_path": "bush_square.glb",
+            "pos": [-2.1, 13.1, -0.7], "euler": [90, 0, 81.8], "scale": 0.6
+        },
+        {
+            "name": "bushwall12","file_path": "bush_square.glb",
+            "pos": [-4.0, 12.9, -0.7], "euler": [90, 0, 73.6], "scale": 0.6
+        },
+        {
+            "name": "bushwall13","file_path": "bush_square.glb",
+            "pos": [-5.9, 12.2, -0.7], "euler": [90, 0, 65.5], "scale": 0.6
+        },
+        {
+            "name": "bushwall14","file_path": "bush_square.glb",
+            "pos": [-7.4, 11.2, -0.7], "euler": [90, 0, 57.3], "scale": 0.6
+        },
+        {
+            "name": "bushwall15","file_path": "bush_square.glb",
+            "pos": [-8.8, 10.0, -0.7], "euler": [90, 0, 49.1], "scale": 0.6
+        },
+        {
+            "name": "bushwall16","file_path": "bush_square.glb",
+            "pos": [-10.0, 8.7, -0.7], "euler": [90, 0, 40.9], "scale": 0.6
+        },
+        {
+            "name": "bushwall17","file_path": "bush_square.glb",
+            "pos": [-11.0, 7.1, -0.7], "euler": [90, 0, 32.7], "scale": 0.6
+        },
+        {
+            "name": "bushwall18","file_path": "bush_square.glb",
+            "pos": [-11.8, 5.4, -0.7], "euler": [90, 0, 24.5], "scale": 0.6
+        },
+        {
+            "name": "bushwall19","file_path": "bush_square.glb",
+            "pos": [-12.5, 3.6, -0.7], "euler": [90, 0, 16.4], "scale": 0.6
+        },
+        {
+            "name": "bushwall20","file_path": "bush_square.glb",
+            "pos": [-12.9, 1.8, -0.7], "euler": [90, 0, 8.2], "scale": 0.6
+        },
+        {
+            "name": "bushwall21","file_path": "bush_square.glb",
+            "pos": [-13.0, 0.0, -0.7], "euler": [90, 0, 0.0], "scale": 0.6
+        },
+        {
+            "name": "bushwall22","file_path": "bush_square.glb",
+            "pos": [-12.9, -1.8, -0.7], "euler": [90, 0, -8.2], "scale": 0.6
+        },
+        {
+            "name": "bushwall23","file_path": "bush_square.glb",
+            "pos": [-12.5, -3.6, -0.7], "euler": [90, 0, -16.4], "scale": 0.6
+        },
+        {
+            "name": "bushwall24","file_path": "bush_square.glb",
+            "pos": [-11.8, -5.4, -0.7], "euler": [90, 0, -24.5], "scale": 0.6
+        },
+        {
+            "name": "bushwall25","file_path": "bush_square.glb",
+            "pos": [-11.0, -7.1, -0.7], "euler": [90, 0, -32.7], "scale": 0.6
+        },
+        {
+            "name": "bushwall26","file_path": "bush_square.glb",
+            "pos": [-10.0, -8.7, -0.7], "euler": [90, 0, -40.9], "scale": 0.6
+        },
+        {
+            "name": "bushwall27","file_path": "bush_square.glb",
+            "pos": [-8.8, -10.0, -0.7], "euler": [90, 0, -49.1], "scale": 0.6
+        },
+        {
+            "name": "bushwall28","file_path": "bush_square.glb",
+            "pos": [-7.4, -11.2, -0.7], "euler": [90, 0, -57.3], "scale": 0.6
+        },
+        {
+            "name": "bushwall29","file_path": "bush_square.glb",
+            "pos": [-5.9, -12.2, -0.7], "euler": [90, 0, -65.5], "scale": 0.6
+        },
+        {
+            "name": "bushwall30","file_path": "bush_square.glb",
+            "pos": [-4.0, -12.9, -0.7], "euler": [90, 0, -73.6], "scale": 0.6
+        },
+        {
+            "name": "bushwall31","file_path": "bush_square.glb",
+            "pos": [-2.1, -13.1, -0.7], "euler": [90, 0, -81.8], "scale": 0.6
+        },
+        {
+            "name": "bushwall32","file_path": "bush_square.glb",
+            "pos": [0.0, -13.0, -0.7], "euler": [90, 0, -90.0], "scale": 0.6
+        },
+        {
+            "name": "bushwall33","file_path": "bush_square.glb",
+            "pos": [2.1, -13.1, -0.7], "euler": [90, 0, -98.2], "scale": 0.6
+        },
+        {
+            "name": "bushwall34","file_path": "bush_square.glb",
+            "pos": [4.0, -12.9, -0.7], "euler": [90, 0, -106.4], "scale": 0.6
+        },
+        {
+            "name": "bushwall35","file_path": "bush_square.glb",
+            "pos": [5.9, -12.2, -0.7], "euler": [90, 0, -114.5], "scale": 0.6
+        },
+        {
+            "name": "bushwall36","file_path": "bush_square.glb",
+            "pos": [7.4, -11.2, -0.7], "euler": [90, 0, -122.7], "scale": 0.6
+        },
+        {
+            "name": "bushwall37","file_path": "bush_square.glb",
+            "pos": [8.8, -10.0, -0.7], "euler": [90, 0, -130.9], "scale": 0.6
+        },
+        {
+            "name": "bushwall38","file_path": "bush_square.glb",
+            "pos": [10.0, -8.7, -0.7], "euler": [90, 0, -139.1], "scale": 0.6
+        },
+        {
+            "name": "bushwall39","file_path": "bush_square.glb",
+            "pos": [11.0, -7.1, -0.7], "euler": [90, 0, -147.3], "scale": 0.6
+        },
+                
+
+        {
+            "name": "mill",
+            "file_path": "windmill.glb",
+            "pos": [
+                14.5,
+                -7.5,
+                7
+            ],
+            "euler": [
+                90,
+                0,
+                -70
+            ],
+            "scale": 0.12
+        },
+
+        {
+            "name": "bush_spike1",
+            "file_path": "bush_square.glb",
+            "pos": [20.2, 5.5, -1.0],
+            "euler": [90, 0, 165],
+            "scale": 0.4
+        },
+
+        {
+            "name": "bush_spike2",
+            "file_path": "bush_square.glb",
+            "pos": [14.3, 14.3, -1.0],
+            "euler": [90, 0, 135],
+            "scale": 0.4
+        },
+
+        {
+            "name": "bush_spike3",
+            "file_path": "bush_square.glb",
+            "pos": [5.5, 20.2, -1.0],
+            "euler": [90, 0, 105],
+            "scale": 0.4
+        },
+
+        {
+            "name": "bush_spike4",
+            "file_path": "bush_square.glb",
+            "pos": [-5.5, 20.2, -1.0],
+            "euler": [90, 0, 75],
+            "scale": 0.4
+        },
+
+        {
+            "name": "bush_spike5",
+            "file_path": "bush_square.glb",
+            "pos": [-14.3, 14.3, -1.0],
+            "euler": [90, 0, 45],
+            "scale": 0.4
+        },
+
+        {
+            "name": "bush_spike6",
+            "file_path": "bush_square.glb",
+            "pos": [-20.2, 5.5, -1.0],
+            "euler": [90, 0, 15],
+            "scale": 0.4
+        },
+
+        {
+            "name": "bush_spike7",
+            "file_path": "bush_square.glb",
+            "pos": [-21.0, 0.0, -1.0],
+            "euler": [90, 0, 0],
+            "scale": 0.4
+        },
+
+        {
+            "name": "bush_spike8",
+            "file_path": "bush_square.glb",
+            "pos": [-20.2, -5.5, -1.0],
+            "euler": [90, 0, -15],
+            "scale": 0.4
+        },
+
+        {
+            "name": "bush_spike9",
+            "file_path": "bush_square.glb",
+            "pos": [-14.3, -14.3, -1.0],
+            "euler": [90, 0, -45],
+            "scale": 0.4
+        },
+
+        {
+            "name": "bush_spike10",
+            "file_path": "bush_square.glb",
+            "pos": [-5.5, -20.2, -1.0],
+            "euler": [90, 0, -75],
+            "scale": 0.4
+        },
+
+        {
+            "name": "bush_spike11",
+            "file_path": "bush_square.glb",
+            "pos": [5.5, -20.2, -1.0],
+            "euler": [90, 0, -105],
+            "scale": 0.4
+        },
+
+        {
+            "name": "bush_spike12",
+            "file_path": "bush_square.glb",
+            "pos": [14.3, -14.3, -1.0],
+            "euler": [90, 0, -135],
+            "scale": 0.4
+        },
+
+        {
+            "name": "bush_spike13",
+            "file_path": "bush_square.glb",
+            "pos": [20.2, -5.5, -1.0],
+            "euler": [90, 0, -165],
+            "scale": 0.4
+        },
+
+
+        {
+            "name": "bush_entrance_fill1",
+            "file_path": "bush_square.glb",
+            "pos": [20.8, 2.8, -1.0],
+            "euler": [90, 0, 180],
+            "scale": 0.4
+        },
+        {
+            "name": "bush_entrance_fill2",
+            "file_path": "bush_square.glb",
+            "pos": [21.0, 0.0, -1.0],
+            "euler": [90, 0, 180],
+            "scale": 0.4
+        },
+                {
+            "name": "bush_entrance_fill3",
+            "file_path": "bush_square.glb",
+            "pos": [20.8, -2.8, -1.0],
+            "euler": [90, 0, 180],
+            "scale": 0.4
+        },
+
+
+        {
+            "name": "bush_gap_fill1",
+            "file_path": "bush_square.glb",
+            "pos": [10.2, 17.8, -1.0],
+            "euler": [90, 0, 120],
+            "scale": 0.4
+        },
+
+        {
+            "name": "bush_gap_fill2",
+            "file_path": "bush_square.glb",
+            "pos": [-10.2, 17.8, -1.0],
+            "euler": [90, 0, 60],
+            "scale": 0.4
+        },
+
+        {
+            "name": "bush_gap_fill3",
+            "file_path": "bush_square.glb",
+            "pos": [-17.8, 10.2, -1.0],
+            "euler": [90, 0, 22],
+            "scale": 0.4
+        },
+
+        {
+            "name": "bush_gap_fill4",
+            "file_path": "bush_square.glb",
+            "pos": [-10.2, -17.8, -1.0],
+            "euler": [90, 0, -60],
+            "scale": 0.4
+        }
+        
+    ],
+        "scene11": [
+        {
+            "name": "fence1",
+            "file_path": "concrete_scan.glb",
+            "pos": [
+                15,
+                -2,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1
+        },
+        {
+            "name": "fence2",
+            "file_path": "concrete_scan.glb",
+            "pos": [
+                4,
+                -15,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1
+        },
+        {
+            "name": "barrier1",
+            "file_path": "barrier_scan_no_2.glb",
+            "pos": [
+                9,
+                -11,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                30
+            ],
+            "scale":0.4
+        },
+        {
+            "name": "barrier2",
+            "file_path": "barrier_scan_no_2.glb",
+            "pos": [
+                -11,
+                -15,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":0.4
+        },
+        {
+            "name": "barrier3",
+            "file_path": "barrier_scan_no_2.glb",
+            "pos": [
+                -17,
+                -15,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                150
+            ],
+            "scale":0.4
+        },
+        {
+            "name": "barrier4",
+            "file_path": "barrier_scan_no_2.glb",
+            "pos": [
+                -15,
+                -10,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                45
+            ],
+            "scale":0.4
+        },
+        {
+            "name": "barrier5",
+            "file_path": "barrier_scan_no_2.glb",
+            "pos": [
+                -15,
+                -5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                140
+            ],
+            "scale":0.4
+        },
+        {
+            "name": "barrier6",
+            "file_path": "barrier_scan_no_2.glb",
+            "pos": [
+                -20,
+                0,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                100
+            ],
+            "scale":0.4
+        },
+        {
+            "name": "barrier7",
+            "file_path": "barrier_scan_no_2.glb",
+            "pos": [
+                10,
+                10,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                140
+            ],
+            "scale":0.4
+        },
+        {
+            "name": "barrier8",
+            "file_path": "barrier_scan_no_2.glb",
+            "pos": [
+                0,
+                13,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":0.4
+        },
+        {
+            "name": "slide",
+            "file_path": "old_playground_slide.glb",
+            "pos": [
+                -4,
+                -10,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                -90
+            ],
+            "scale":0.7
+        },
+        {
+            "name": "swing",
+            "file_path": "swing.glb",
+            "pos": [
+                0,
+                8,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1.5
+        },
+        {
+            "name": "bulldozer1",
+            "file_path": "bulldozer.glb",
+            "pos": [
+                0,
+                18,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                70
+            ],
+            "scale":0.015
+        },
+        {
+            "name": "bulldozer2",
+            "file_path": "bulldozer.glb",
+            "pos": [
+                10,
+                16,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                45
+            ],
+            "scale":0.015
+        },
+        {
+            "name": "truck",
+            "file_path": "truck.glb",
+            "pos": [
+                -11,
+                13,
+                2.3
+            ],
+            "euler": [
+                90,
+                0,
+                -45
+            ],
+            "scale":1
+        },
+        {
+            "name": "fountain",
+            "file_path": "town_fountain.glb",
+            "pos": [
+                -13,
+                3,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":0.05
+        }
+    ],
+    "scene12": [
+        
+        {
+            "name": "middle_rock1",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [15.5, 9.2, 1.3],
+            "euler": [90, 0, 30],
+            "scale": 0.6
+        },
+        
+        {
+            "name": "entrance_narrow_rock",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [18.0, 3.5, 1.2],  
+            "euler": [90, 0, 15],
+            "scale": 0.5
+        },
+        {
+            "name": "middle_rock3",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [15.5, -9.2, 1.1],
+            "euler": [90, 0, -30],
+            "scale": 0.5
+        },
+        {
+            "name": "middle_rock4",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [8.7, -15.0, 1.4],
+            "euler": [90, 0, -60],
+            "scale": 0.6
+        },
+        {
+            "name": "middle_rock5",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [0.0, -17.3, 1.2],
+            "euler": [90, 0, -90],
+            "scale": 0.7
+        },
+        {
+            "name": "middle_rock6",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [-8.7, -15.0, 1.1],
+            "euler": [90, 0, -120],
+            "scale": 0.5
+        },
+        {
+            "name": "middle_rock7",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [-15.0, -8.7, 1.3],
+            "euler": [90, 0, -150],
+            "scale": 0.6
+        },
+        {
+            "name": "middle_rock8",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [-17.3, 0.0, 1.2],
+            "euler": [90, 0, 180],
+            "scale": 0.7
+        },
+        {
+            "name": "middle_rock9",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [-15.0, 8.7, 1.1],
+            "euler": [90, 0, 150],
+            "scale": 0.5
+        },
+        {
+            "name": "middle_rock10",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [-8.7, 15.0, 1.4],
+            "euler": [90, 0, 120],
+            "scale": 0.6
+        },
+        {
+            "name": "middle_rock11",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [0.0, 17.3, 1.2],
+            "euler": [90, 0, 90],
+            "scale": 0.7
+        },
+        {
+            "name": "middle_rock12",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [8.7, 15.0, 1.1],
+            "euler": [90, 0, 60],
+            "scale": 0.5
+        },
+        {
+            "name": "gap_bush1",
+            "file_path": "bush_square.glb",
+            "pos": [12.1, 12.1, -0.4],
+            "euler": [90, 0, 45],
+            "scale": 0.6
+        },
+        {
+            "name": "gap_bush2",
+            "file_path": "bush_square.glb",
+            "pos": [12.1, -12.1, -0.3],
+            "euler": [90, 0, -45],
+            "scale": 0.7
+        },
+        {
+            "name": "gap_bush3",
+            "file_path": "bush_square.glb",
+            "pos": [-12.1, -12.1, -0.5],
+            "euler": [90, 0, -135],
+            "scale": 0.6
+        },
+        {
+            "name": "gap_bush4",
+            "file_path": "bush_square.glb",
+            "pos": [-12.1, 12.1, -0.4],
+            "euler": [90, 0, 135],
+            "scale": 0.7
+        },
+
+        {
+            "name": "outer_rock1",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [22.0, 5.0, 1.4],
+            "euler": [90, 0, 18],
+            "scale": 0.6
+        },
+        {
+            "name": "outer_rock2",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [5.0, 22.0, 1.3],
+            "euler": [90, 0, 85],
+            "scale": 0.7
+        },
+        {
+            "name": "outer_rock3",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [-22.0, -5.0, 1.2],
+            "euler": [90, 0, -175],
+            "scale": 0.5
+        },
+        {
+            "name": "outer_rock4",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [-5.0, -22.0, 1.5],
+            "euler": [90, 0, -95],
+            "scale": 0.6
+        },
+        {
+            "name": "second_rock1",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [15.5, 9.2, 3.3],
+            "euler": [90, 0, 30],
+            "scale": 0.6
+        },
+
+        {
+            "name": "second_rock3",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [15.5, -9.2, 3.3],
+            "euler": [90, 0, -30],
+            "scale": 0.5
+        },
+        {
+            "name": "second_rock4",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [8.7, -15.0, 3.3],
+            "euler": [90, 0, -60],
+            "scale": 0.6
+        },
+        {
+            "name": "second_rock5",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [0.0, -17.3, 3.3],
+            "euler": [90, 0, -90],
+            "scale": 0.7
+        },
+        {
+            "name": "second_rock6",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [-8.7, -15.0, 3.3],
+            "euler": [90, 0, -120],
+            "scale": 0.5
+        },
+        {
+            "name": "second_rock7",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [-15.0, -8.7, 3.3],
+            "euler": [90, 0, -150],
+            "scale": 0.6
+        },
+        {
+            "name": "second_rock8",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [-17.3, 0.0, 3.3],
+            "euler": [90, 0, 180],
+            "scale": 0.7
+        },
+        {
+            "name": "second_rock9",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [-15.0, 8.7, 3.3],
+            "euler": [90, 0, 150],
+            "scale": 0.5
+        },
+        {
+            "name": "second_rock10",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [-8.7, 15.0, 3.3],
+            "euler": [90, 0, 120],
+            "scale": 0.6
+        },
+        {
+            "name": "second_rock11",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [0.0, 17.3, 3.3],
+            "euler": [90, 0, 90],
+            "scale": 0.7
+        },
+        {
+            "name": "second_rock12",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [8.7, 15.0, 3.3],
+            "euler": [90, 0, 60],
+            "scale": 0.5
+        },
+        {
+            "name": "third_rock1",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [14.8, 8.9, 5.0],
+            "euler": [90, 0, 28],
+            "scale": 0.5
+        },
+        {
+            "name": "third_rock2",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [16.2, 2.8, 5.1],
+            "euler": [90, 0, 10],
+            "scale": 0.6
+        },
+        {
+            "name": "third_rock3",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [14.8, -8.9, 5.2],
+            "euler": [90, 0, -28],
+            "scale": 0.4
+        },
+        {
+            "name": "third_rock4",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [8.2, -14.2, 5.3],
+            "euler": [90, 0, -58],
+            "scale": 0.5
+        },
+        {
+            "name": "third_rock5",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [0.3, -16.8, 5.0],
+            "euler": [90, 0, -88],
+            "scale": 0.6
+        },
+        {
+            "name": "third_rock6",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [-8.2, -14.2, 5.1],
+            "euler": [90, 0, -118],
+            "scale": 0.4
+        },
+        {
+            "name": "third_rock7",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [-14.5, -8.2, 5.2],
+            "euler": [90, 0, -148],
+            "scale": 0.5
+        },
+        {
+            "name": "third_rock8",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [-16.8, 0.3, 5.3],
+            "euler": [90, 0, 178],
+            "scale": 0.6
+        },
+        {
+            "name": "third_rock9",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [-14.5, 8.2, 5.0],
+            "euler": [90, 0, 148],
+            "scale": 0.4
+        },
+        {
+            "name": "third_rock10",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [-8.2, 14.2, 5.1],
+            "euler": [90, 0, 118],
+            "scale": 0.5
+        },
+        {
+            "name": "third_rock11",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [0.3, 16.8, 5.2],
+            "euler": [90, 0, 88],
+            "scale": 0.6
+        },
+        {
+            "name": "third_rock12",
+            "file_path": "a_twin_capital_with_decoration_of_plant_motifs.glb",
+            "pos": [8.2, 14.2, 5.3],
+            "euler": [90, 0, 58],
+            "scale": 0.4
+        },
+        {
+            "name": "interior_rock1",
+            "file_path": "mossy_rock.glb",
+            "pos": [10.5, 4.2, 1.5],
+            "euler": [90, 0, 25],
+            "scale": 0.023
+        },
+        {
+            "name": "interior_rock2",
+            "file_path": "mossy_rock.glb",
+            "pos": [8.8, -3.5, 0.5],
+            "euler": [90, 0, -15],
+            "scale": 0.013
+        },
+
+        {
+            "name": "interior_rock3",
+            "file_path": "mossy_rock.glb",
+            "pos": [-11.2, 6.8, 1.5],
+            "euler": [90, 0, -85],
+            "scale": 0.023
+        },
+        {
+            "name": "interior_rock4",
+            "file_path": "mossy_rock.glb",
+            "pos": [2.8, -12.5, 1.5],
+            "euler": [90, 0, 72],
+            "scale": 0.023
+        }
+        
+    ],
+        "scene13": [
+        {
+            "name": "a_pile_of_clay",
+            "file_path": "a_pile_of_clay.glb",
+            "pos": [
+                10,
+                10,
+                1
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":2
+        },
+        {
+            "name": "rock1",
+            "file_path": "rocks_props__00001.glb",
+            "pos": [
+                6,
+                10,
+                2.5
+            ],
+            "euler": [
+                90,
+                0,
+                45
+            ],
+            "scale":0.04
+        },
+        {
+            "name": "rock2",
+            "file_path": "rocks_props__00001.glb",
+            "pos": [
+                21,
+                12,
+                2.5
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":0.05
+        },
+        {
+            "name": "fence1",
+            "file_path": "old_concrete_fence_-_lowpoly.glb",
+            "pos": [
+                5,
+                20,
+                2
+            ],
+            "euler": [
+                90,
+                0,
+                40
+            ],
+            "scale":2.3
+        },
+        {
+            "name": "fence2",
+            "file_path": "old_concrete_fence_-_lowpoly.glb",
+            "pos": [
+                -7,
+                14.5,
+                2
+            ],
+            "euler": [
+                90,
+                0,
+                -23
+            ],
+            "scale":2.3
+        },
+        {
+            "name": "fence3",
+            "file_path": "old_concrete_fence_-_lowpoly.glb",
+            "pos": [
+                -10,
+                0,
+                2
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":2.3
+        },
+        {
+            "name": "fence4",
+            "file_path": "old_concrete_fence_-_lowpoly.glb",
+            "pos": [
+                13,
+                0,
+                2
+            ],
+            "euler": [
+                90,
+                0,
+                -15
+            ],
+            "scale":2.3
+        },
+        {
+            "name": "fence5",
+            "file_path": "old_concrete_fence_-_lowpoly.glb",
+            "pos": [
+                2,
+                -7,
+                2
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":2.3
+        },
+        {
+            "name": "fence6",
+            "file_path": "old_concrete_fence_-_lowpoly.glb",
+            "pos": [
+                -4,
+                -7,
+                2
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":2.3
+        },
+        {
+            "name": "excavator",
+            "file_path": "excavator_3d_model.glb",
+            "pos": [
+                17,
+                10,
+                0
+            ],
+            "euler": [
+                180,
+                0,
+                120
+            ],
+            "scale":1
+        },
+        {
+            "name": "tree1",
+            "file_path": "pine_tree.glb",
+            "pos": [
+                14,
+                17,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":0.03
+        },
+        {
+            "name": "tree2",
+            "file_path": "pine_tree.glb",
+            "pos": [
+                10,
+                5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":0.03
+        },
+        {
+            "name": "barrier",
+            "file_path": "roadbarrier.glb",
+            "pos": [
+                -2,
+                8,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":3
+        }
+    ],
+    "scene14": [
+        {
+            "name": "fire_engine1",
+            "file_path": "fire_engine.glb",
+            "pos": [
+                -11,
+                5,
+                2
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":0.03
+        },
+        {
+            "name": "fire_engine2",
+            "file_path": "fire_engine.glb",
+            "pos": [
+                -11,
+                -5.0,
+                2
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":0.03
+        },
+        {
+            "name": "ambulance1",
+            "file_path": "rettungswagen__krankenwagen___ambulance.glb",
+            "pos": [
+                -9,
+                -12,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":0.012
+        },
+        {
+            "name": "panel1",
+            "file_path": "warning_panel.glb",
+            "pos": [
+                -5,
+                -14.5,
+                1
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1
+        },
+        {
+            "name": "panel2",
+            "file_path": "warning_panel.glb",
+            "pos": [
+                -3.7,
+                -14.5,
+                1
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1
+        },
+        {
+            "name": "panel3",
+            "file_path": "warning_panel.glb",
+            "pos": [
+                -2.4,
+                -14.5,
+                1
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1
+        },
+        {
+            "name": "bump1",
+            "file_path": "reinforced_concrete_bump.glb",
+            "pos": [
+                3,
+                -16,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":3
+        },
+        {
+            "name": "bump2",
+            "file_path": "reinforced_concrete_bump.glb",
+            "pos": [
+                7,
+                -16,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":3
+        },
+        {
+            "name": "barrel1",
+            "file_path": "rusty_burn_barrel.glb",
+            "pos": [
+                4,
+                -8,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":2
+        },
+        {
+            "name": "barrel2",
+            "file_path": "rusty_burn_barrel.glb",
+            "pos": [
+                5,
+                -8,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":2
+        },
+        {
+            "name": "fire_extinguisher",
+            "file_path": "toon_fire_extinguisher.glb",
+            "pos": [
+                2.5,
+                -6.5,
+                0.4
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1.2
+        },
+        {
+            "name": "fence1",
+            "file_path": "concrete_fence.glb",
+            "pos": [
+                9.2,
+                -9.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1.2
+        },
+        {
+            "name": "fence2",
+            "file_path": "concrete_fence.glb",
+            "pos": [
+                9.2,
+                -5.2,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1.2
+        },
+        {
+            "name": "fence3",
+            "file_path": "concrete_fence.glb",
+            "pos": [
+                9.2,
+                -0.9,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1.2
+        },
+        {
+            "name": "fence4",
+            "file_path": "concrete_fence.glb",
+            "pos": [
+                9.2,
+                3.4,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1.2
+        },
+        {
+            "name": "fence5",
+            "file_path": "concrete_fence.glb",
+            "pos": [
+                9.2,
+                7.7,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1.2
+        },
+        {
+            "name": "fence6",
+            "file_path": "concrete_fence.glb",
+            "pos": [
+                9.2,
+                12,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1.2
+        },
+        {
+            "name": "fence7",
+            "file_path": "concrete_fence.glb",
+            "pos": [
+                9.5,
+                -14,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1.2
+        },
+        {
+            "name": "fence8",
+            "file_path": "concrete_fence.glb",
+            "pos": [
+                5.2,
+                -14,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1.2
+        },
+        {
+            "name": "fence9",
+            "file_path": "concrete_fence.glb",
+            "pos": [
+                9.5,
+                12,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1.2
+        },
+        {
+            "name": "fence10",
+            "file_path": "concrete_fence.glb",
+            "pos": [
+                5.2,
+                12,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1.2
+        },
+        {
+            "name": "fence11",
+            "file_path": "concrete_fence.glb",
+            "pos": [
+                0.9,
+                12,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1.2
+        },
+        {
+            "name": "fence12",
+            "file_path": "concrete_fence.glb",
+            "pos": [
+                -3.4,
+                12,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1.2
+        },
+        {
+            "name": "fence13",
+            "file_path": "concrete_fence.glb",
+            "pos": [
+                -7.7,
+                12,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1.2
+        },
+        {
+            "name": "cone1",
+            "file_path": "traffic_cone_game_ready.glb",
+            "pos": [
+                -5.5,
+                -7,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":0.05
+        },
+        {
+            "name": "cone2",
+            "file_path": "traffic_cone_game_ready.glb",
+            "pos": [
+                -5.5,
+                -8,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":0.05
+        },
+        {
+            "name": "cone3",
+            "file_path": "traffic_cone_game_ready.glb",
+            "pos": [
+                -5.5,
+                -9,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":0.05
+        },
+        {
+            "name": "box1",
+            "file_path":  "electric_box.glb",
+            "pos": [
+                -9,
+                11,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                45
+            ],
+            "scale":0.1
+        }
+        
+        
+    ],
+    "scene15": [
+        {
+            "name": "inner_bushwall1","file_path": "damaged_wall.glb",
+            "pos": [7.5, 10, 0], "euler": [90, 0, 0], "scale": 0.025
+        },
+
+        {
+            "name": "inner_bushwall2","file_path": "damaged_wall.glb",
+            "pos": [2.5, 10, 0], "euler": [90, 0, 0], "scale": 0.025
+        },
+        {
+            "name": "inner_bushwall3","file_path": "damaged_wall.glb",
+            "pos": [-2.5, 10, 0], "euler": [90, 0, 0], "scale": 0.025
+        },
+        {
+            "name": "inner_bushwall4","file_path": "damaged_wall.glb",
+            "pos": [-7.5, 10, 0], "euler": [90, 0, 0], "scale": 0.025
+        },
+        {
+            "name": "inner_bushwall5","file_path": "damaged_wall.glb",
+            "pos": [7.5, -10, 0], "euler": [90, 0, 0], "scale": 0.025
+        },
+        {
+            "name": "inner_bushwall6","file_path": "damaged_wall.glb",
+            "pos": [2.5, -10, 0], "euler": [90, 0, 0], "scale": 0.025
+        },
+        {
+            "name": "inner_bushwall7","file_path": "damaged_wall.glb",
+            "pos": [-2.5, -10, 0], "euler": [90, 0, 0], "scale": 0.025
+        },
+        {
+            "name": "inner_bushwall8","file_path": "damaged_wall.glb",
+            "pos": [-7.5, -10, 0], "euler": [90, 0, 0], "scale": 0.025
+        },
+
+        {
+            "name": "side_bushwall1","file_path": "damaged_wall.glb",
+            "pos": [-10, 7.5, 0], "euler": [90, 0, -90], "scale": 0.025
+        },
+        {
+            "name": "side_bushwall2","file_path": "damaged_wall.glb",
+            "pos": [-10, 2.5, 0], "euler": [90, 0, -90], "scale": 0.025
+        },
+        {
+            "name": "side_bushwall3","file_path": "damaged_wall.glb",
+            "pos": [-10, -2.5, 0], "euler": [90, 0, -90], "scale": 0.025
+        },
+        {
+            "name": "side_bushwall4","file_path": "damaged_wall.glb",
+            "pos": [-10, -7.5, 0], "euler": [90, 0, -90], "scale": 0.025
+        },
+        {
+            "name": "side_bushwall5","file_path": "damaged_wall.glb",
+            "pos": [10, -2.5, 0], "euler": [90, 0, -90], "scale": 0.025
+        },
+        {
+            "name": "side_bushwall6","file_path": "damaged_wall.glb",
+            "pos": [10, -7.5, 0], "euler": [90, 0, -90], "scale": 0.025
+        },
+
+        
+
+        {
+            "name": "outer_bushwall1","file_path": "damaged_wall.glb",
+            "pos": [5, 15, 0], "euler": [90, 0, 0], "scale": 0.05
+        },
+
+        {
+            "name": "outer_bushwall2","file_path": "damaged_wall.glb",
+            "pos": [-5, 15, 0], "euler": [90, 0, 0], "scale": 0.05
+        },
+        {
+            "name": "outer_bushwall3","file_path": "damaged_wall.glb",
+            "pos": [12, 15, 0], "euler": [90, 0, 0], "scale": 0.05
+        },
+
+        {
+            "name": "outer_bushwall4","file_path": "damaged_wall.glb",
+            "pos": [5, -15, 0], "euler": [90, 0, 0], "scale": 0.05
+        },
+        {
+            "name": "outer_bushwall5","file_path": "damaged_wall.glb",
+            "pos": [-5, -15, 0], "euler": [90, 0, 0], "scale": 0.05
+        },
+        {
+            "name": "outer_bushwall6","file_path": "damaged_wall.glb",
+            "pos": [12, -15, 0], "euler": [90, 0, 0], "scale": 0.05
+        },
+        
+        {
+            "name": "side_bushwall111","file_path": "damaged_wall.glb",
+            "pos": [17, 10, 0], "euler": [90, 0, -90], "scale": 0.05
+        },
+        {
+            "name": "side_bushwall112","file_path": "damaged_wall.glb",
+            "pos": [17, 0, 0], "euler": [90, 0, -90], "scale": 0.05
+        },
+        {
+            "name": "upper_side_bushwall4","file_path": "damaged_wall.glb",
+            "pos": [17, -10, 0], "euler": [90, 0, -90], "scale": 0.05
+        },
+
+
+
+
+        {
+            "name": "upper_outer_bushwall1","file_path": "damaged_wall.glb",
+            "pos": [5, 15, 4], "euler": [90, 0, 0], "scale": 0.05
+        },
+
+        {
+            "name": "upper_outer_bushwall2","file_path": "damaged_wall.glb",
+            "pos": [-5, 15, 4], "euler": [90, 0, 0], "scale": 0.05
+        },
+        {
+            "name": "upper_outer_bushwall3","file_path": "damaged_wall.glb",
+            "pos": [12, 15, 4], "euler": [90, 0, 0], "scale": 0.05
+        },
+
+        {
+            "name": "upper_outer_bushwall4","file_path": "damaged_wall.glb",
+            "pos": [5, -15, 4], "euler": [90, 0, 0], "scale": 0.05
+        },
+        {
+            "name": "upper_outer_bushwall5","file_path": "damaged_wall.glb",
+            "pos": [-5, -15, 4], "euler": [90, 0, 0], "scale": 0.05
+        },
+        {
+            "name": "upper_outer_bushwall6","file_path": "damaged_wall.glb",
+            "pos": [12, -15, 4], "euler": [90, 0, 0], "scale": 0.05
+        },
+        
+        {
+            "name": "upper_side_bushwall1","file_path": "damaged_wall.glb",
+            "pos": [17, 10, 4], "euler": [90, 0, -90], "scale": 0.05
+        },
+        {
+            "name": "upper_side_bushwall2","file_path": "damaged_wall.glb",
+            "pos": [17, 0, 4], "euler": [90, 0, -90], "scale": 0.05
+        },
+        {
+            "name": "upper_side_bushwall3","file_path": "damaged_wall.glb",
+            "pos": [17, -10, 4], "euler": [90, 0, -90], "scale": 0.05
+        },
+        
+   
+   
+   
+        {
+            "name": "tree1",
+            "file_path": "pine_tree.glb",
+            "pos": [-7,-7,0],"euler": [90,0,0],"scale": 0.03
+        },
+        {
+            "name": "tree2",
+            "file_path": "pine_tree.glb",
+            "pos": [-15,8,0],"euler": [90,0,0],"scale": 0.03
+        },
+        {
+            "name": "tree3",
+            "file_path": "pine_tree.glb",
+            "pos": [-16,0,0],"euler": [90,0,0],"scale": 0.03
+        },
+        {
+            "name": "tree4",
+            "file_path": "pine_tree.glb",
+            "pos": [14,-13,0],"euler": [90,0,0],"scale": 0.03
+        },
+
+        {
+            "name": "truck",
+            "file_path": "truck.glb",
+            "pos": [12,0,1.5],"euler": [90,0,20],"scale": 0.6
+        }
+   
+    ],
+    "scene16": [
+        {
+            "name": "bus_stop1",
+            "file_path": "bus_stop.glb",
+            "pos": [
+                10,
+                16,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1
+        },
+        {
+            "name": "bus_stop2",
+            "file_path": "bus_stop.glb",
+            "pos": [
+                2,
+                16,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1
+        },
+        {
+            "name": "bus1",
+            "file_path": "mio_bus.glb",
+            "pos": [
+                10,
+                14,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":0.15
+        },
+        {
+            "name": "bus2",
+            "file_path": "generic_town_bus.glb",
+            "pos": [
+                -2,
+                14,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":0.08
+        },
+        {
+            "name": "guard_rail",
+            "file_path": "guard-rail.glb",
+            "pos": [
+                6,
+                12,
+                1
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":0.3
+        },
+        {
+            "name": "street_lamp1",
+            "file_path": "street_lamp.glb",
+            "pos": [
+                2,
+                10,
+                2
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1.3
+        },
+        {
+            "name": "street_lamp2",
+            "file_path": "street_lamp.glb",
+            "pos": [
+                5,
+                10,
+                2
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1.3
+        },
+        {
+            "name": "mcdonalds",
+            "file_path": "mcdonalds_stand.glb",
+            "pos": [
+                -16,
+                0,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                270
+            ],
+            "scale":1
+        },
+        {
+            "name": "entrance_gate",
+            "file_path": "entrance_gates.glb",
+            "pos": [
+                -13,
+                -4,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1
+        },
+        {
+            "name": "car1",
+            "file_path": "car.glb",
+            "pos": [
+                -11.5,
+                0,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1
+        },
+        {
+            "name": "car2",
+            "file_path": "car2.glb",
+            "pos": [
+                -11.5,
+                6,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                0
+            ],
+            "scale":1
+        },
+        {
+            "name": "car3",
+            "file_path": "car.glb",
+            "pos": [
+                -8,
+                10,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                -90
+            ],
+            "scale":1
+        },
+        {
+            "name": "tree1",
+            "file_path": "quick_treeit_tree.glb",
+            "pos": [
+                -15,
+                12,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                -90
+            ],
+            "scale":0.08
+        },
+        {
+            "name": "tree2",
+            "file_path": "quick_treeit_tree.glb",
+            "pos": [
+                -15,
+                10,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                -90
+            ],
+            "scale":0.08
+        },
+        {
+            "name": "tree3",
+            "file_path": "quick_treeit_tree.glb",
+            "pos": [
+                -15,
+                8,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                -90
+            ],
+            "scale":0.08
+        },
+        {
+            "name": "gym1",
+            "file_path": "gym_1.glb",
+            "pos": [
+                4,
+                -6,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1
+        },
+        {
+            "name": "gym2",
+            "file_path": "gym_2.glb",
+            "pos": [
+                2,
+                -8,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1
+        },
+        {
+            "name": "gym3",
+            "file_path": "gym_3.glb",
+            "pos": [
+                9,
+                -3,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1
+        },
+        {
+            "name": "gym4",
+            "file_path": "gym_5.glb",
+            "pos": [
+                7,
+                -7,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1
+        },
+        {
+            "name": "basketball_hoop",
+            "file_path": "basketball_hoop.glb",
+            "pos": [
+                -3,
+                -7,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1
+        },
+        {
+            "name": "soccer_goal",
+            "file_path": "soccer_goal.glb",
+            "pos": [
+                8,
+                -5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":1
+        },
+        {
+            "name": "toy_store",
+            "file_path": "toy.glb",
+            "pos": [
+                14,
+                6,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                -90
+            ],
+            "scale":0.5
+        },
+        {
+            "name": "school",
+            "file_path": "art_school.glb",
+            "pos": [
+                16,
+                -4.5,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                110
+            ],
+            "scale":0.01
+        },
+        {
+            "name": "fence1",
+            "file_path": "wooden_fence.glb",
+            "pos": [
+                3,
+                -13,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                -90
+            ],
+            "scale":9
+        },
+        {
+            "name": "fence2",
+            "file_path": "wooden_fence.glb",
+            "pos": [
+                12,
+                -13,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                -90
+            ],
+            "scale":9
+        },
+        {
+            "name": "fence3",
+            "file_path": "wooden_fence.glb",
+            "pos": [
+                -6,
+                -13,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                -90
+            ],
+            "scale":9
+        },
+        {
+            "name": "fence4",
+            "file_path": "wooden_fence.glb",
+            "pos": [
+                -15,
+                -13,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                -90
+            ],
+            "scale":9
+        },
+        {
+            "name": "fence5",
+            "file_path": "wooden_fence.glb",
+            "pos": [
+                -15,
+                18,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":9
+        },
+        {
+            "name": "fence6",
+            "file_path": "wooden_fence.glb",
+            "pos": [
+                -6,
+                18,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":9
+        },
+        {
+            "name": "fence7",
+            "file_path": "wooden_fence.glb",
+            "pos": [
+                4,
+                18,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":9
+        },
+        {
+            "name": "fence8",
+            "file_path": "wooden_fence.glb",
+            "pos": [
+                13,
+                18,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                90
+            ],
+            "scale":9
+        },
+        {
+            "name": "fence9",
+            "file_path": "wooden_fence.glb",
+            "pos": [
+                -19,
+                14,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                180
+            ],
+            "scale":9
+        },
+        {
+            "name": "fence10",
+            "file_path": "wooden_fence.glb",
+            "pos": [
+                -19,
+                7,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                180
+            ],
+            "scale":9
+        },
+        {
+            "name": "fence11",
+            "file_path": "wooden_fence.glb",
+            "pos": [
+                -19,
+                0,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                180
+            ],
+            "scale":9
+        },
+        {
+            "name": "fence12",
+            "file_path": "wooden_fence.glb",
+            "pos": [
+                -19,
+                -8,
+                0
+            ],
+            "euler": [
+                90,
+                0,
+                180
+            ],
+            "scale":9
+        }
+    ]
+
+
+
+}

@@ -1,0 +1,752 @@
+[
+  {
+    "name": "A_9",
+    "file_path": "Set_A/BAT1_SETA_HOUSE9.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7712666666666667,
+    "circle_cd": 0.4420054539976365,
+    "circle_precision": 0.5742666666666667,
+    "circle_f1": 0.658345247650663
+  },
+  {
+    "name": "A_6",
+    "file_path": "Set_A/BAT1_SETA_HOUSE6.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7527333333333334,
+    "circle_cd": 0.42472882633410663,
+    "circle_precision": 0.5807333333333333,
+    "circle_f1": 0.6556404426224044
+  },
+  {
+    "name": "A_11",
+    "file_path": "Set_A/BAT1_SETA_HOUSE11.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7778,
+    "circle_cd": 0.5014618994324597,
+    "circle_precision": 0.5610666666666667,
+    "circle_f1": 0.6518911318030176
+  },
+  {
+    "name": "A_7",
+    "file_path": "Set_A/BAT1_SETA_HOUSE7.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7571333333333333,
+    "circle_cd": 0.47460601737924424,
+    "circle_precision": 0.5278,
+    "circle_f1": 0.6220010999273632
+  },
+  {
+    "name": "A_5",
+    "file_path": "Set_A/BAT1_SETA_HOUSE5.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.8351333333333333,
+    "circle_cd": 0.3209420954090709,
+    "circle_precision": 0.5622,
+    "circle_f1": 0.672011393129771
+  },
+  {
+    "name": "A_10",
+    "file_path": "Set_A/BAT1_SETA_HOUSE10.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.766,
+    "circle_cd": 0.5475381037990577,
+    "circle_precision": 0.5516666666666666,
+    "circle_f1": 0.6414014672400707
+  },
+  {
+    "name": "A_1",
+    "file_path": "Set_A/BAT1_SETA_HOUSE1.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.8078666666666666,
+    "circle_cd": 0.3173077862311614,
+    "circle_precision": 0.5755333333333333,
+    "circle_f1": 0.6721905386085811
+  },
+  {
+    "name": "A_2",
+    "file_path": "Set_A/BAT1_SETA_HOUSE2.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.8078,
+    "circle_cd": 0.3110072608930724,
+    "circle_precision": 0.6011333333333333,
+    "circle_f1": 0.6893094161067475
+  },
+  {
+    "name": "A_4",
+    "file_path": "Set_A/BAT1_SETA_HOUSE4.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7492,
+    "circle_cd": 0.47734591416552274,
+    "circle_precision": 0.5348666666666667,
+    "circle_f1": 0.6241453299413322
+  },
+  {
+    "name": "A_3",
+    "file_path": "Set_A/BAT1_SETA_HOUSE3.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.8455333333333334,
+    "circle_cd": 0.4047455228326887,
+    "circle_precision": 0.568,
+    "circle_f1": 0.6795211998302126
+  },
+  {
+    "name": "A_12",
+    "file_path": "Set_A/BAT1_SETA_HOUSE12.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7748,
+    "circle_cd": 0.32319302072292033,
+    "circle_precision": 0.5526,
+    "circle_f1": 0.6451024257947868
+  },
+  {
+    "name": "A_8",
+    "file_path": "Set_A/BAT1_SETA_HOUSE8.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.8168,
+    "circle_cd": 0.5779688771478645,
+    "circle_precision": 0.5564,
+    "circle_f1": 0.6619101660355374
+  },
+  {
+    "name": "B_22",
+    "file_path": "Set_B/BAT1_SETB_HOUSE22.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.8031333333333334,
+    "circle_cd": 0.4538240440671889,
+    "circle_precision": 0.5812666666666667,
+    "circle_f1": 0.6744216058300427
+  },
+  {
+    "name": "B_16",
+    "file_path": "Set_B/BAT1_SETB_HOUSE16.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.8056,
+    "circle_cd": 0.500535166223732,
+    "circle_precision": 0.5292,
+    "circle_f1": 0.6387826191189692
+  },
+  {
+    "name": "B_13",
+    "file_path": "Set_B/BAT1_SETB_HOUSE13.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.8159333333333333,
+    "circle_cd": 0.4957595417219513,
+    "circle_precision": 0.5346666666666666,
+    "circle_f1": 0.6460126692663342
+  },
+  {
+    "name": "B_24",
+    "file_path": "Set_B/BAT1_SETB_HOUSE24.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.8705333333333334,
+    "circle_cd": 0.25682295161191515,
+    "circle_precision": 0.5994666666666667,
+    "circle_f1": 0.710007776266062
+  },
+  {
+    "name": "B_18",
+    "file_path": "Set_B/BAT1_SETB_HOUSE18.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7995333333333333,
+    "circle_cd": 0.4730802784449175,
+    "circle_precision": 0.526,
+    "circle_f1": 0.6345438817079917
+  },
+  {
+    "name": "B_25",
+    "file_path": "Set_B/BAT1_SETB_HOUSE25.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.8467333333333333,
+    "circle_cd": 0.285326133765978,
+    "circle_precision": 0.6566666666666666,
+    "circle_f1": 0.7396854537123261
+  },
+  {
+    "name": "B_14",
+    "file_path": "Set_B/BAT1_SETB_HOUSE14.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7314666666666667,
+    "circle_cd": 0.5285099662951046,
+    "circle_precision": 0.5902,
+    "circle_f1": 0.6532836721311475
+  },
+  {
+    "name": "B_17",
+    "file_path": "Set_B/BAT1_SETB_HOUSE17.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7691333333333333,
+    "circle_cd": 0.4627910465287215,
+    "circle_precision": 0.5210666666666667,
+    "circle_f1": 0.6212521193957871
+  },
+  {
+    "name": "B_23",
+    "file_path": "Set_B/BAT1_SETB_HOUSE23.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.8634,
+    "circle_cd": 0.24447615593689193,
+    "circle_precision": 0.6039333333333333,
+    "circle_f1": 0.7107260881417538
+  },
+  {
+    "name": "B_19",
+    "file_path": "Set_B/BAT1_SETB_HOUSE19.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7471333333333333,
+    "circle_cd": 0.4495618615185125,
+    "circle_precision": 0.5495333333333333,
+    "circle_f1": 0.6332771276778063
+  },
+  {
+    "name": "B_21",
+    "file_path": "Set_B/BAT1_SETB_HOUSE21.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.6353333333333333,
+    "circle_cd": 0.49623169784549,
+    "circle_precision": 0.4956,
+    "circle_f1": 0.5568342372082056
+  },
+  {
+    "name": "B_15",
+    "file_path": "Set_B/BAT1_SETB_HOUSE15.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7178,
+    "circle_cd": 0.6559613681657217,
+    "circle_precision": 0.5452,
+    "circle_f1": 0.6197063499604117
+  },
+  {
+    "name": "B_20",
+    "file_path": "Set_B/BAT1_SETB_HOUSE20.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7558666666666667,
+    "circle_cd": 0.4753642449091079,
+    "circle_precision": 0.5098,
+    "circle_f1": 0.608913605478009
+  },
+  {
+    "name": "C_35",
+    "file_path": "Set_C/BAT1_SETC_HOUSE35.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7208666666666667,
+    "circle_cd": 0.38424556317365854,
+    "circle_precision": 0.5575333333333333,
+    "circle_f1": 0.6287659504936727
+  },
+  {
+    "name": "C_32",
+    "file_path": "Set_C/BAT1_SETC_HOUSE32.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.9068666666666667,
+    "circle_cd": 0.2282035623398034,
+    "circle_precision": 0.6320666666666667,
+    "circle_f1": 0.744931802691619
+  },
+  {
+    "name": "C_37",
+    "file_path": "Set_C/BAT1_SETC_HOUSE37.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7304,
+    "circle_cd": 0.48866264402551013,
+    "circle_precision": 0.5385333333333333,
+    "circle_f1": 0.6199612482925291
+  },
+  {
+    "name": "C_28",
+    "file_path": "Set_C/BAT1_SETC_HOUSE28.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7778,
+    "circle_cd": 0.37289751911790747,
+    "circle_precision": 0.5622666666666667,
+    "circle_f1": 0.6527003830655193
+  },
+  {
+    "name": "C_33",
+    "file_path": "Set_C/BAT1_SETC_HOUSE33.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.6439333333333334,
+    "circle_cd": 0.4852953980794572,
+    "circle_precision": 0.49673333333333336,
+    "circle_f1": 0.5608354490551335
+  },
+  {
+    "name": "C_29",
+    "file_path": "Set_C/BAT1_SETC_HOUSE29.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7022,
+    "circle_cd": 0.4669927357679885,
+    "circle_precision": 0.5818666666666666,
+    "circle_f1": 0.636394953533046
+  },
+  {
+    "name": "C_30",
+    "file_path": "Set_C/BAT1_SETC_HOUSE30.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7393333333333333,
+    "circle_cd": 0.4770995323343282,
+    "circle_precision": 0.5495333333333333,
+    "circle_f1": 0.63045824928016
+  },
+  {
+    "name": "C_34",
+    "file_path": "Set_C/BAT1_SETC_HOUSE34.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.8495333333333334,
+    "circle_cd": 0.3151027445052714,
+    "circle_precision": 0.5806,
+    "circle_f1": 0.6897805146373298
+  },
+  {
+    "name": "C_36",
+    "file_path": "Set_C/BAT1_SETC_HOUSE36.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7799333333333334,
+    "circle_cd": 0.41842375043125835,
+    "circle_precision": 0.5728666666666666,
+    "circle_f1": 0.6605526447204152
+  },
+  {
+    "name": "C_27",
+    "file_path": "Set_C/BAT1_SETC_HOUSE27.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.8430666666666666,
+    "circle_cd": 0.31638331862250996,
+    "circle_precision": 0.5838,
+    "circle_f1": 0.6898785030135961
+  },
+  {
+    "name": "C_31",
+    "file_path": "Set_C/BAT1_SETC_HOUSE31.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7867333333333333,
+    "circle_cd": 0.3516497007365145,
+    "circle_precision": 0.6247333333333334,
+    "circle_f1": 0.6964366206939984
+  },
+  {
+    "name": "C_26",
+    "file_path": "Set_C/BAT1_SETC_HOUSE26.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7758666666666667,
+    "circle_cd": 0.3458704267880781,
+    "circle_precision": 0.5732,
+    "circle_f1": 0.6593102984779601
+  },
+  {
+    "name": "D_42",
+    "file_path": "Set_D/BAT1_SETD_HOUSE42.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7901333333333334,
+    "circle_cd": 0.3316340761649954,
+    "circle_precision": 0.5798666666666666,
+    "circle_f1": 0.668864207623682
+  },
+  {
+    "name": "D_43",
+    "file_path": "Set_D/BAT1_SETD_HOUSE43.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.6934,
+    "circle_cd": 0.444259117633786,
+    "circle_precision": 0.5864666666666667,
+    "circle_f1": 0.6354661735597458
+  },
+  {
+    "name": "D_38",
+    "file_path": "Set_D/BAT1_SETD_HOUSE38.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7346,
+    "circle_cd": 0.306762040425236,
+    "circle_precision": 0.5028666666666667,
+    "circle_f1": 0.5970356427109148
+  },
+  {
+    "name": "D_40",
+    "file_path": "Set_D/BAT1_SETD_HOUSE40.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.8883333333333333,
+    "circle_cd": 0.3053629551947761,
+    "circle_precision": 0.5842,
+    "circle_f1": 0.7048591995653749
+  },
+  {
+    "name": "D_48",
+    "file_path": "Set_D/BAT1_SETD_HOUSE48.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.8162666666666667,
+    "circle_cd": 0.28945601250706054,
+    "circle_precision": 0.6139333333333333,
+    "circle_f1": 0.7007877437499029
+  },
+  {
+    "name": "D_49",
+    "file_path": "Set_D/BAT1_SETD_HOUSE49.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7244666666666667,
+    "circle_cd": 0.35868167407685886,
+    "circle_precision": 0.524,
+    "circle_f1": 0.6081388369733539
+  },
+  {
+    "name": "D_39",
+    "file_path": "Set_D/BAT1_SETD_HOUSE39.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.8289333333333333,
+    "circle_cd": 0.24421185828199063,
+    "circle_precision": 0.5276,
+    "circle_f1": 0.6447983487320621
+  },
+  {
+    "name": "D_45",
+    "file_path": "Set_D/BAT1_SETD_HOUSE45.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.8786,
+    "circle_cd": 0.24574075064670853,
+    "circle_precision": 0.6012,
+    "circle_f1": 0.7138996080551426
+  },
+  {
+    "name": "D_47",
+    "file_path": "Set_D/BAT1_SETD_HOUSE47.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7890666666666667,
+    "circle_cd": 0.3986558080531296,
+    "circle_precision": 0.5460666666666667,
+    "circle_f1": 0.6454531449210233
+  },
+  {
+    "name": "D_44",
+    "file_path": "Set_D/BAT1_SETD_HOUSE44.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7646,
+    "circle_cd": 0.2938781606127272,
+    "circle_precision": 0.5766666666666667,
+    "circle_f1": 0.6574670709279785
+  },
+  {
+    "name": "D_46",
+    "file_path": "Set_D/BAT1_SETD_HOUSE46.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.7321333333333333,
+    "circle_cd": 0.4952575653181696,
+    "circle_precision": 0.5537333333333333,
+    "circle_f1": 0.6305578045071201
+  },
+  {
+    "name": "D_41",
+    "file_path": "Set_D/BAT1_SETD_HOUSE41.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.6604,
+    "circle_cd": 0.4018408686371647,
+    "circle_precision": 0.5163333333333333,
+    "circle_f1": 0.5795476743527278
+  },
+  {
+    "name": "D_50",
+    "file_path": "Set_D/BAT1_SETD_HOUSE50.glb",
+    "euler": [
+      90,
+      0,
+      0
+    ],
+    "height": 0.0,
+    "scale": 15,
+    "max_cr": 0.542,
+    "circle_cd": 0.5496111935833918,
+    "circle_precision": 0.45326666666666665,
+    "circle_f1": 0.49367780829258484
+  }
+]
