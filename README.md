@@ -1,4 +1,4 @@
 # ARDOR
 
 ## Overview
-![Overview](Fig_ARDOR.jpg)
+![Overview](Fig_ARDOR.png)
